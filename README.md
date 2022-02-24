@@ -39,3 +39,7 @@ module.exports = {
 ```
 
 Dosyanın içini istediğiniz gibi özelleştirip komutunuzu ekleyebilirsiniz.
+
+## Nasıl Kullanılır?
+
+Botu manuel olarak başlatmak için `npm start` veya `node server.js` yazabilirsiniz.
